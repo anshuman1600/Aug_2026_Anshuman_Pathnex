@@ -1,0 +1,85 @@
+# Day02 - 02-Aug-2026
+
+# Linux Basic Commands Practice
+
+
+1. ls - List files and directories
+
+Command:
+ls
+ls -l
+ls -a
+ls -lh
+
+
+2. cd - Change directory
+
+Command:
+cd /home/user/project
+
+
+3. pwd - Print current working directory
+
+Command:
+pwd
+
+
+4. mkdir - Create directory
+
+Command:
+mkdir test_dir
+
+
+5. rm - Remove files/directories
+
+Command:
+rm file.txt
+rm -r test_dir
+rm -f file.txt
+
+
+6. cp - Copy files/directories
+
+Command:
+cp file.txt backup.txt
+cp -r folder backup_folder
+
+
+7. mv - Move/Rename files
+
+Command:
+mv file.txt newfile.txt
+mv file.txt folder/
+
+
+8. touch - Create file
+
+Command:
+touch demo.txt
+
+
+9. cat - View file content
+
+Command:
+cat demo.txt
+
+
+10. ln - Create links
+
+Hard Link:
+ln file.txt hardlink.txt
+
+Soft Link:
+ln -s file.txt softlink.txt
+
+
+11. chmod - Change permissions
+
+Command:
+chmod +x script.sh
+chmod 755 script.sh
+
+Permissions:
+r = read
+w = write
+x = execute
