@@ -1,0 +1,26 @@
+# Day03 - 03-Aug-2026
+
+# What I did today
+
+- Practiced head command (view first lines of file)
+- Practiced tail command (view last lines of file)
+- Practiced find command (search files and directories)
+- Learned Absolute Path and Relative Path
+- Completed AWS EC2 setup
+- Created and downloaded Key Pair
+- Connected EC2 using SSH
+- Integrated GitHub with EC2 using SSH key
+- Practiced du -a command
+- Practiced df -h command
+- Practiced top command
+- Practiced free -h command
+- Learned Load Average (1, 5, 15 minute system load)
+
+# Tomorrow's Task
+
+- Practice chown command
+- Practice chgrp command
+- Learn umask command
+- More practice on load average
+- Deep dive into df -h command
+- More practice on top command

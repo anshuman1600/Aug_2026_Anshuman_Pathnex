@@ -1,0 +1,55 @@
+# Day03 - 03-Aug-2026
+
+# head command
+
+head file.txt
+head -5 file.txt
+
+# tail command
+
+tail file.txt
+tail -5 file.txt
+
+# find command
+
+find . -name "*.txt"
+find . -type f
+find . -type d
+
+# Absolute Path
+
+cd /home/ec2-user/project
+
+# Relative Path
+
+cd ../project
+
+# EC2 SSH Connection
+
+ssh -i "key.pem" ec2-user@public-ip
+
+# GitHub Integration
+
+ssh-keygen -t ed25519
+cat ~/.ssh/id_ed25519.pub
+
+# Disk Usage
+
+du -a
+
+# Filesystem Usage
+
+df -h
+
+# Memory Usage
+
+free -h
+
+# System Processes
+
+top
+
+# Load Average
+
+uptime
+top
