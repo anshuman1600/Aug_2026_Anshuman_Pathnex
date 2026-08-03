@@ -1,0 +1,19 @@
+hvsdWhat I did today
+
+- Got overview of DevOps Roadmap (16 Tools)
+- Learned basic concepts of IP Address and Subnet
+- Understood Network vs Host portion in IP
+- Created AWS Account
+- Launched AWS EC2 Instance
+- Generated and configured SSH Key Pair
+- Connected EC2 Instance using SSH
+- Created GitHub Repository for PathNex
+- Configured Git and GitHub setup
+
+
+Tomorrow's Task
+
+- Linux Basics
+- Linux File System
+- Commands: pwd, ls, cd, mkdir, touch, cat
+- Create Day02 Notes

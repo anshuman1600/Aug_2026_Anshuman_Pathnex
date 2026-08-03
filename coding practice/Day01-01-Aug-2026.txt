@@ -1,0 +1,32 @@
+Day 01 Practice Notes
+
+Topics Covered
+
+- DevOps Roadmap Overview
+- IP Address
+- Subnet Basics
+- AWS Account Setup
+- EC2 Instance Creation
+- SSH Connection using Key Pair
+- GitHub Repository Setup
+
+Commands/Concepts Learned
+
+- SSH Key Pair is used for secure login to EC2
+- Public IP is used to connect to EC2
+- GitHub is used for code and notes backup
+- EC2 is a virtual server in AWS
+
+Practice Status
+
+- AWS Account Setup Completed
+- EC2 Setup Completed
+- GitHub Setup Completed
+
+Tomorrow
+
+- Linux Commands Practice
+- Create Files and Directories
+- Learn Navigation Commands
+
+----------------------------------------
