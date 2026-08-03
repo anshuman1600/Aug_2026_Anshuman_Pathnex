@@ -11,7 +11,7 @@ hvsdWhat I did today
 - Configured Git and GitHub setup
 
 
-Tomorrow's Task
+Tomorrow's Task -:
 
 - Linux Basics
 - Linux File System
