@@ -1,0 +1,44 @@
+# Day02 - 02-Aug-2026
+
+# What I did today
+
+- Practiced basic Linux commands:
+
+1. ls - List files and directories
+   -l : Long listing
+   -a : Show hidden files
+   -h : Human readable size
+
+2. cd - Change directory
+
+3. pwd - Check current working directory
+
+4. mkdir - Create new directory
+
+5. rm - Remove files/directories
+   -r : Recursive delete
+   -f : Force delete
+
+6. cp - Copy files/directories
+   -r : Copy directories recursively
+
+7. mv - Move or rename files
+
+8. touch - Create empty files
+
+9. cat - View file content
+
+10. ln - Create links
+    - Practiced hard link and soft link
+
+11. chmod - Change file permissions
+    - Practiced read, write, execute permissions
+
+
+# Tomorrow's Task
+
+- Practice head and tail commands
+- Practice find command
+- Learn more about Linux permissions
+- Other commands practice
+- little bit aboout git
