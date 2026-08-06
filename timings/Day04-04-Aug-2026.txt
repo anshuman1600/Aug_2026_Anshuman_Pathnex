@@ -4,7 +4,7 @@
 
 - Learned Normal User vs Root User
 - Learned Super User (Root) concept
-- Understood Sudo Privileges
+- Understood sudo Privileges
 - Learned why applications use dedicated users
 - Practiced viewing users using /etc/passwd
 - Practiced who command (logged-in users)
