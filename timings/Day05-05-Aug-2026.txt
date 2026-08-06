@@ -1,0 +1,90 @@
+# Day05 - 05-Aug-2026i
+
+
+# What I did today
+
+- Learned Terraform basics
+
+- Learned Terraform workflow (Init → Plan → Apply → Destroy)
+
+- Learned how Terraform creates AWS resources automatically
+
+- Understood Public IP and Private IP outputs in Terraform
+
+
+
+- Learned Linux Process Management
+
+- Practiced ps command to view running processes
+
+- Learned different ps options (ps, ps -A, ps aux, ps -ef)
+
+- Practiced searching processes using grep
+
+- Learned pgrep command to find PID by process name
+
+- Learned kill command to terminate processes using PID
+
+- Learned pkill command to terminate processes using process name
+
+- Understood Process ID (PID) concept
+
+- Learned Parent Process and Child Process concepts
+
+- Practiced process troubleshooting using ps + grep + kill
+
+
+
+- Learned top command for real-time system monitoring
+
+- Learned uname command to view system information
+
+- Practiced whoami command
+
+- Learned uptime command and load average basics
+
+- Practiced lscpu command to view CPU information
+
+
+
+- Learned network troubleshooting commands
+- Practiced ifconfig command
+- Practiced ping command
+- Learned wget command for downloading files
+- Learned curl command for testing URLs and APIs
+- Learned telnet command for port connectivity testing
+
+
+
+- Learned Linux Runlevels
+- Practiced runlevel command
+- Learned init 0, 1, 3, 5 and 6
+
+
+
+- Learned Linux Exit Codes
+- Practiced checking exit status using echo $?
+
+
+
+- Learned about /etc/fstab file
+
+- Learned Linux Log Files
+- Viewed logs using cat and tail commands
+- Learned common log locations
+- Practiced command history
+- Learned how to clear command history
+
+- Learned Cron Job basics
+- Practiced crontab commands
+- Understood cron scheduling concept
+- Learned how to troubleshoot cron jobs
+
+
+
+# Tomorrow's Task
+
+- Practice service management commands
+- Learn shell scripting
+- Practice cron job scheduling
+- Solve pdf questions

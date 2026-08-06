@@ -1,0 +1,199 @@
+# Day05 Coding Practice - 05-Aug-2026
+
+# Process Management
+
+# View current terminal processes
+ps
+
+# View all processes
+ps -A
+
+# Detailed process information
+ps aux
+
+# Full format process list
+ps -ef
+
+# Search specific process
+ps -ef | grep ssh
+ps -ef | grep code
+
+# Find PID using process name
+pgrep sshd
+pgrep code
+
+# Kill process using PID
+kill 1234
+
+# Kill process using name
+pkill code
+
+# Real-time process monitoring
+top
+
+--------------------------------------------------
+
+# Grep Command
+
+# Search text
+grep "root" /etc/passwd
+
+# Ignore case
+grep -i "root" /etc/passwd
+
+# Invert match
+grep -v "root" /etc/passwd
+
+# Show line numbers
+grep -n "root" /etc/passwd
+
+# Recursive search
+grep -r "ssh" /etc
+
+--------------------------------------------------
+
+# System Information
+
+# Current user
+whoami
+
+# System information
+uname
+
+# Detailed system information
+uname -a
+
+# System uptime
+uptime
+
+# CPU details
+lscpu
+
+--------------------------------------------------
+
+# Network Commands
+
+# Network interface details
+ifconfig
+
+# Test connectivity
+ping google.com
+
+# Download file
+wget https://example.com/file.zip
+
+# Fetch webpage/API data
+curl https://google.com
+
+# Get public IP
+curl ifconfig.me
+
+# Test port connectivity
+telnet google.com 80
+telnet 15.206.149.97 22
+
+--------------------------------------------------
+
+# Runlevel
+
+# Check current runlevel
+runlevel
+
+# Shutdown
+init 0
+
+# Single user mode
+init 1
+
+# Multi-user CLI mode
+init 3
+
+# GUI mode
+init 5
+
+# Reboot
+init 6
+
+--------------------------------------------------
+
+# Exit Codes
+
+# Successful command
+ls
+
+# Check exit code
+echo $?
+
+# Failed command
+ls abcxyz
+
+# Check exit code
+echo $?
+
+--------------------------------------------------
+
+# /etc/fstab
+
+# View mount configuration
+cat /etc/fstab
+
+--------------------------------------------------
+
+# Log Files
+
+# View system logs
+cat /var/log/messages
+
+# Monitor logs in real time
+tail -f /var/log/messages
+
+# View cron logs
+cat /var/log/cron
+
+--------------------------------------------------
+
+# History
+
+# Show command history
+history
+
+# Clear current session history
+history -c
+
+# Delete history file
+rm ~/.bash_history
+
+--------------------------------------------------
+
+# Cron Jobs
+
+# Edit cron jobs
+crontab -e
+
+# List cron jobs
+crontab -l
+
+# Remove cron jobs
+crontab -r
+
+# Example: Run every minute
+* * * * * /home/ec2-user/script.sh
+
+--------------------------------------------------
+
+# Terraform
+
+# Initialize Terraform
+terraform init
+
+# Preview changes
+terraform plan
+
+# Create resources
+terraform apply
+
+# Create resources without confirmation
+terraform apply -auto-approve
+
+# Destroy resources
+terraform destroy
