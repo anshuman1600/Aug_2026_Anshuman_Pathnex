@@ -1,0 +1,31 @@
+# Day04 - 04-Aug-2026
+
+# What I did today
+
+- Learned Normal User vs Root User
+- Learned Super User (Root) concept
+- Understood sudo Privileges
+- Learned why applications use dedicated users
+- Practiced viewing users using /etc/passwd
+- Practiced who command (logged-in users)
+- Practiced whoami command (current user)
+- Practiced hostname command
+- Created new users using useradd
+- Set user passwords using passwd
+- Practiced switching users using su
+- Learned SSH password authentication basics
+- Learned how to check SSH configuration
+- Understood Owner, Group and Others concept
+- Learned Linux comments using # symbol
+- Understood Command → Script → Program → Application flow
+
+# Tomorrow's Task
+
+- Practice user management commands again
+- Learn group management commands
+- Practice chown command
+- Practice chgrp command
+- Learn umask command
+- Practice file permissions
+- Learn sudoers configuration
+- More SSH authentication practice
