@@ -6,7 +6,7 @@ follow Notes
 
 
 Tomorrow's Task
-AWS Revison and morning class topics
+AWS Revision and morning class topics
 1 Hour - Coding Practice L2 Week01 Day06
 3 Hours - Docker
 Notes Revision
