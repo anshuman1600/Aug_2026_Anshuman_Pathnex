@@ -1,5 +1,5 @@
 - name: Install Nginx on Anshuman Server
-  hostd: all
+  hosts: all
   become: yes
 
   
