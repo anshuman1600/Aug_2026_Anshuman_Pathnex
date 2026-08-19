@@ -1,4 +1,4 @@
-iDay 09 — Docker Integration with Jenkins & GitLab
+Day 14 — Docker Integration with Jenkins & GitLab
   
 Ansible — Setup Docker Container for Nginx
 - name: Setup Docker Container for Nginx
