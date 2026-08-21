@@ -1,0 +1,30 @@
+# Day06 - 06-Aug-2026
+
+# What I did today
+
+- Learned Git Branch Workflow
+- Practiced creating and switching branches
+- Learned Git Merge
+- Learned Merge Conflicts
+- Practiced resolving merge conflicts
+- Learned Merge vs Rebase
+- Practiced Git Rebase
+- Learned Cherry Pick
+- Practiced moving commits between branches
+- Learned Hotfix Workflow
+- Created emergency fix branch
+- Merged hotfix into main
+- Learned Git Log visualization
+- Practiced branch cleanup
+- Understood real-world Git collaboration workflow
+
+# Tomorrow's Task
+
+- Practice Git rebase again
+- Create and resolve merge conflicts
+- Practice cherry-pick command
+- Learn Git stash
+- Learn Git tags
+- Learn Git revert
+- Learn Git reset
+- More GitHub Pull Request practice
